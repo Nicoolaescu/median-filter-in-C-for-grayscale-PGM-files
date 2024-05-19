@@ -1,0 +1,3 @@
+C:/Users/alexa/OneDrive/Desktop/Facultate/anu2/SDA/tema2_SDA_1/cmake-build-debug/CMakeFiles/tema2_SDA_1.dir
+C:/Users/alexa/OneDrive/Desktop/Facultate/anu2/SDA/tema2_SDA_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/alexa/OneDrive/Desktop/Facultate/anu2/SDA/tema2_SDA_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
